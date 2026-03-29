@@ -1,75 +1,185 @@
-<!-- 💼 Rakesh Aragodi GitHub Profile -->
+<div align="center">
 
-<h1 align="center">👋 Hey there, I'm Rakesh Aragodi</h1>
-<h3 align="center">🚀 DevSecOps Engineer | AWS Certified | CI/CD & Cloud Automation Enthusiast 🌐</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2E75B6&height=200&section=header&text=Rakesh%20Aragodi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=HIL%20%26%20Test%20Automation%20Engineer%20%7C%20Automotive%20SDV%20%7C%20AWS%20Certified&descSize=16&descAlignY=58&descColor=cce4ff" width="100%"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+</div>
 
 ---
 
-## 🔧 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-- 👨‍💻 Currently working as a **DevSecOps Engineer** at **Tata Consultancy Services (TCS)**
-- ✅ **AWS Certified DevOps Engineer – Professional**
-- 🔭 Building **secure & scalable CI/CD pipelines**, **infrastructure as code**, and **automated cloud workflows**
-- ☁️ Skilled across **AWS**, **Terraform**, **Docker**, **Kubernetes (EKS)**, **CloudFront**, and **VPC Design**
-- 🚀 Passionate about **automation**, **security**, and **system reliability**
-- ⚙️ Automating with **Python**, **Bash**, and **GitLab CI**
-- 🔍 Monitoring with **CloudWatch**, **Grafana**, and **Prometheus**
-- 📦 Container orchestration & deployment with **Docker**, **K8s**, and **EKS**
-- 💬 Always open to talk about **DevOps, Cloud, Security, or Open Source**
+### 👋 About Me
+
+- 🚗 **HIL & Test Automation Engineer** at **Tata Consultancy Services**
+- 🏎️ Working on **Jaguar Land Rover's Software-Defined Vehicle (SDV)** program
+- 🐍 Building **Python BDD automation frameworks** (pytest + Behave) for ECU validation
+- 🔬 Expert in **dSPACE HIL**, **Vector CANoe/CANalyzer**, **CAN/UDS diagnostics**
+- ☁️ **AWS Certified DevOps Engineer – Professional** | GCP ACE | Azure Data Scientist
+- 🔁 Integrating test pipelines into **GitLab CI/CD** for nightly automated regression
+- 📊 Metrics that matter: **500+ automated test cases · 40% coverage improvement · 35% less manual effort**
+- 📍 Based in **Pune, Maharashtra, India**
+- 💬 Talk to me about: **Automotive Testing · Python Automation · HIL/SIL · DevSecOps**
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎯 What I Do
 
-### 🧠 DevOps & Automation
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+```python
+class RakeshAragodi:
+
+    role       = "HIL & Test Automation Engineer"
+    company    = "TCS @ Jaguar Land Rover SDV"
+    location   = "Pune, India"
+
+    domains    = ["Automotive ECU Testing", "HIL/SIL Validation",
+                  "Python Test Automation", "CI/CD Pipelines", "Cloud DevSecOps"]
+
+    daily_tools = {
+        "testing"    : ["pytest", "Behave BDD", "dSPACE ControlDesk", "AutomationDesk"],
+        "automotive" : ["Vector CANoe", "CANalyzer", "UDS Diagnostics", "CAN FD", "LIN"],
+        "cloud"      : ["AWS", "GitLab CI", "Terraform", "Docker", "Kubernetes (EKS)"],
+        "languages"  : ["Python", "CAPL", "Bash", "C++"],
+    }
+
+    impact = {
+        "test_cases_automated" : "500+",
+        "coverage_improvement" : "40%",
+        "manual_effort_saved"  : "35%",
+        "critical_defects_caught_before_vehicle_integration": "20+",
+    }
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🐍 Python Test Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Behave](https://img.shields.io/badge/Behave_BDD-00B388?style=for-the-badge&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### ☁️ Cloud & Infrastructure as Code
+### 🚗 Automotive & HIL Tools
+![dSPACE](https://img.shields.io/badge/dSPACE-ControlDesk-003865?style=for-the-badge&logoColor=white)
+![Vector](https://img.shields.io/badge/Vector-CANoe%2FCANalyzer-CC0000?style=for-the-badge&logoColor=white)
+![CAN](https://img.shields.io/badge/CAN%20%2F%20CAN_FD-Protocol-FF6B35?style=for-the-badge&logoColor=white)
+![UDS](https://img.shields.io/badge/UDS-Diagnostics-8B0000?style=for-the-badge&logoColor=white)
+![LIN](https://img.shields.io/badge/LIN-Protocol-444444?style=for-the-badge&logoColor=white)
+
+### ☁️ Cloud & DevSecOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=aws&logoColor=white)
-
-### 🐳 Containerization & Orchestration
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/EKS-0052CC?style=for-the-badge&logo=amazon-eks&logoColor=white)
-
-### 🔐 Security & Quality
 ![Snyk](https://img.shields.io/badge/Snyk-4A154B?style=for-the-badge&logo=snyk&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-2E3A59?style=for-the-badge&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
-### 📊 Monitoring & Observability
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-### 💾 Platforms & OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+### 📋 Test Management & Reporting
+![Jira](https://img.shields.io/badge/Jira_Xray-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl-Reports-1D6F42?style=for-the-badge&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 ---
 
-## 📚 DevOps Journey
+## 📈 My Automation Journey
 
 ```mermaid
 graph LR
-  A[Linux Basics] --> B[Git & GitLab CI]
-  B --> C[CI/CD Pipelines]
-  C --> D[Docker & Containers]
-  D --> E[Kubernetes & EKS]
-  E --> F[AWS - EC2, S3, IAM, VPC, CloudFront]
-  F --> G[Terraform & IaC]
-  G --> H[Security Tools - Snyk, Trivy]
-  H --> I[Monitoring - CloudWatch, Grafana]
-  I --> J[AWS DevOps Professional Certified]
+    A[🐍 Python Basics] --> B[pytest & BDD]
+    B --> C[CANoe COM API Integration]
+    C --> D[dSPACE XIL API + HIL]
+    D --> E[500+ Automated Test Cases]
+    E --> F[GitLab CI/CD Pipelines]
+    F --> G[Jira Xray API Traceability]
+    G --> H[AWS EKS Cloud Deployments]
+    H --> I[☁️ AWS DevOps Pro Certified]
+
+    style A fill:#2E75B6,color:#fff
+    style E fill:#1F3864,color:#fff
+    style I fill:#FF9900,color:#fff
+```
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Level |
+|:---|:---|:---|
+| 🏅 **AWS Certified DevOps Engineer** | Amazon Web Services | Professional |
+| 🏅 **Google Cloud Certified** | Google Cloud | Associate Cloud Engineer |
+| 🏅 **Azure Data Scientist Associate** | Microsoft Azure | Associate |
+
+</div>
+
+---
+
+## 🔬 Key Projects
+
+### 🚗 JLR SDV — Python BDD Test Automation Framework
+> *Jaguar Land Rover Software-Defined Vehicle Program @ TCS*
+
+- Designed and delivered a **Python (Behave + pytest) BDD framework** for dSPACE HIL setups
+- Automated **500+ Gherkin-based test cases** across **BCM and Infotainment ECUs**
+- Improved validation coverage by **40%** and reduced manual reporting by **35%**
+- Integrated **Jira Xray API** for automated requirements traceability
+- Embedded in **GitLab CI/CD** for nightly regression runs
+
+**Stack:** `Python` `pytest` `Behave` `dSPACE XIL API` `CANoe` `UDS` `GitLab CI` `Jira Xray` `openpyxl`
+
+---
+
+### 🔐 SDV DevSecOps Automation Pipeline
+> *Cloud-native CI/CD for automotive validation environments*
+
+- Architected end-to-end **GitLab CI/CD pipelines** with **AWS (EC2, S3, IAM, Lambda)**
+- Provisioned infrastructure via **Terraform** — fully automated spin-up and teardown
+- Integrated **Snyk security gates** — blocked **90%+ vulnerabilities** before production
+- Containerised microservices with **Docker**, deployed on **AWS EKS**
+- Built **CloudWatch dashboards** for pipeline health and test execution metrics
+
+**Stack:** `GitLab CI` `Terraform` `AWS EKS` `Docker` `Snyk` `CloudWatch` `IAM`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AragodiGit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AragodiGit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AragodiGit&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakesh_Aragodi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakesharagodi)
+[![Email](https://img.shields.io/badge/Email-rakesharagodi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakesharagodi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AragodiGit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AragodiGit)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:1F3864&height=100&section=footer" width="100%"/>
+
+*"Testing is not just finding bugs — it's building confidence that the software is ready."*
+
+</div>
